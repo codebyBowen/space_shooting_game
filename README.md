@@ -43,7 +43,7 @@ A pixel-art style space shooter game built with Python and Pygame.
 
 1. Run the game:
    ```
-   python space_shooter.py
+   python spaceShootingGame.py
    ```
 
 2. Use arrow keys to move your spaceship
